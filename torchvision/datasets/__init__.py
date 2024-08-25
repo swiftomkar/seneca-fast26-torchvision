@@ -14,6 +14,7 @@ from .fgvc_aircraft import FGVCAircraft
 from .flickr import Flickr8k, Flickr30k
 from .flowers102 import Flowers102
 from .folder import ImageFolder, DatasetFolder
+from .folder import ImageFolderQuiver, ImageFolderMDP, ImageFolderODS, ImageFolderMinIO, ImageFolderBBModel
 from .food101 import Food101
 from .gtsrb import GTSRB
 from .hmdb51 import HMDB51
@@ -105,4 +106,9 @@ __all__ = (
     "FGVCAircraft",
     "EuroSAT",
     "RenderedSST2",
+    'ImageFolderQuiver',
+    'ImageFolderMDP',
+    'ImageFolderMinIO',
+    'ImageFolderODS',
+    'ImageFolderBBModel'
 )
