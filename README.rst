@@ -1,4 +1,6 @@
-# Seneca
+torchvision
+===========
+
 
 This repository contains the TorchVision source code for the paper "Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca"
 
