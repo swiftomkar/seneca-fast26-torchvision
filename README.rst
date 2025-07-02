@@ -1,3 +1,12 @@
+# Seneca
+
+This repository contains the TorchVision source code for the paper "Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca"
+
+--------------------------------------------------------------------------------
+For Seneca specific installation instructions click [here](https://github.com/swiftomkar/seneca-fast26-pytorch/blob/master/AEC_readme.md)
+--------------------------------------------------------------------------------
+
+
 torchvision
 ===========
 
